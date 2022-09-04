@@ -142,12 +142,11 @@ const HomeScreen = () => {
               style={{
                 textAlign: "center",
                 fontSize: 18,
-                fontWeight: "bold",
-                color: "red",
+                fontWeight: "normal",
                 marginBottom: 20,
               }}
             >
-              contacts is undefined
+              Loading...
               {contacts}
             </Text>
           </View>
